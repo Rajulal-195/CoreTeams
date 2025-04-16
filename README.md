@@ -7,7 +7,7 @@ Recommended: Node.js v14 or higher
 
 Step 2 : Clone the Project
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Rajulal-195/CoreTeams
 cd your-repo-name
 
 Step 3 :  Install Dependencies
